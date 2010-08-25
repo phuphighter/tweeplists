@@ -1,6 +1,6 @@
 # Tweeplists
 
-Get Twitter users from Listorious and WeFollow lists.
+Get Twitter users from [Listorious](http://listorious.com) and [WeFollow](http://wefollow.com) lists.
 
 ## Dependencies
 
